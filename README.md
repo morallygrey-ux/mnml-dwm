@@ -1,5 +1,7 @@
 # mnml-dwm
 
+Edit: Added my GTK and Icon theme. 
+
 
 Nothing that cool. 
 I set the keybinds up to all work in sync with eachother. 
